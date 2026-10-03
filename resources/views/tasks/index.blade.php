@@ -21,7 +21,7 @@
                 </div>
             </div>
         @empty
-            <p class="mt-4">Koi task nahi hai.</p>
+            <p class="mt-4">No tasks yet.</p>
         @endforelse
     </div>
 </x-app-layout>
